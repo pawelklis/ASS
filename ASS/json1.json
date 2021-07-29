@@ -1,0 +1,4833 @@
+{
+  "Stands": [
+    {
+      "Name": "Stanowisko 1",
+      "StandItem1": {
+        "Lamp1": {
+          "LampColor": "White",
+          "blinkTimer": {
+            "Site": null,
+            "Enabled": false,
+            "Interval": 200.0,
+            "AutoReset": true,
+            "Container": null,
+            "SynchronizingObject": null
+          },
+          "LampBlinking": true,
+          "TurnOnSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": "2w11"
+          },
+          "TactsToTurnON": 244,
+          "TurnOffSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": "2w10"
+          },
+          "TactsToTurnOff": 247,
+          "LampBlinkingLenght": 6000,
+          "LampBlinkingInterval": 201
+        },
+        "Lamp2": {
+          "LampColor": "Red",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": "2w41"
+          },
+          "TactsToTurnON": 257,
+          "TurnOffSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": "2w40"
+          },
+          "TactsToTurnOff": 260,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "Red",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": ""
+          },
+          "TactsToTurnON": 20,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": ""
+          },
+          "TactsToTurnOff": 50,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "Red",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": ""
+          },
+          "TactsToTurnON": 261,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": ""
+          },
+          "TactsToTurnOff": 400,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": "Lisi Ogon",
+          "DirectionsPNAList": [
+            {
+              "WSR": "",
+              "PnaTo": "64899",
+              "PnaFrom": "64800 "
+            },
+            {
+              "WSR": "",
+              "PnaTo": "64999",
+              "PnaFrom": "64900 "
+            },
+            {
+              "WSR": "",
+              "PnaTo": "77399",
+              "PnaFrom": "77300 "
+            },
+            {
+              "WSR": "",
+              "PnaTo": "77499",
+              "PnaFrom": "77400 "
+            },
+            {
+              "WSR": "",
+              "PnaTo": "77699",
+              "PnaFrom": "78600 "
+            },
+            {
+              "WSR": "",
+              "PnaTo": "89999",
+              "PnaFrom": "85000"
+            }
+          ]
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem2": {
+        "Lamp1": {
+          "LampColor": "White",
+          "blinkTimer": {
+            "Site": null,
+            "Enabled": false,
+            "Interval": 200.0,
+            "AutoReset": true,
+            "Container": null,
+            "SynchronizingObject": null
+          },
+          "LampBlinking": true,
+          "TurnOnSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": "2w11"
+          },
+          "TactsToTurnON": 244,
+          "TurnOffSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": "2w10"
+          },
+          "TactsToTurnOff": 247,
+          "LampBlinkingLenght": 6000,
+          "LampBlinkingInterval": 200
+        },
+        "Lamp2": {
+          "LampColor": "Lime",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": "2w51"
+          },
+          "TactsToTurnON": 257,
+          "TurnOffSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": "2w50"
+          },
+          "TactsToTurnOff": 260,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "255, 255, 128",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": ""
+          },
+          "TactsToTurnON": 20,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": ""
+          },
+          "TactsToTurnOff": 50,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "255, 255, 128",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": ""
+          },
+          "TactsToTurnON": 261,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": ""
+          },
+          "TactsToTurnOff": 400,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": "Pruszcz Gd",
+          "DirectionsPNAList": [
+            {
+              "WSR": "",
+              "PnaTo": "84999",
+              "PnaFrom": "80000 "
+            },
+            {
+              "WSR": "",
+              "PnaTo": "14499",
+              "PnaFrom": "14400 "
+            },
+            {
+              "WSR": "",
+              "PnaTo": "14599",
+              "PnaFrom": "14500 "
+            },
+            {
+              "WSR": "",
+              "PnaTo": "76299",
+              "PnaFrom": "76200 "
+            },
+            {
+              "WSR": "",
+              "PnaTo": "77199",
+              "PnaFrom": "77100 "
+            },
+            {
+              "WSR": "",
+              "PnaTo": "77299",
+              "PnaFrom": "77200 "
+            }
+          ]
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem3": {
+        "Lamp1": {
+          "LampColor": "White",
+          "blinkTimer": {
+            "Site": null,
+            "Enabled": false,
+            "Interval": 200.0,
+            "AutoReset": true,
+            "Container": null,
+            "SynchronizingObject": null
+          },
+          "LampBlinking": true,
+          "TurnOnSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": "2w11"
+          },
+          "TactsToTurnON": 10,
+          "TurnOffSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": "2w10"
+          },
+          "TactsToTurnOff": 247,
+          "LampBlinkingLenght": 6000,
+          "LampBlinkingInterval": 200
+        },
+        "Lamp2": {
+          "LampColor": "Blue",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": "2w61"
+          },
+          "TactsToTurnON": 21,
+          "TurnOffSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": "2w60"
+          },
+          "TactsToTurnOff": 260,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "Teal",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": ""
+          },
+          "TactsToTurnON": 20,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": ""
+          },
+          "TactsToTurnOff": 50,
+          "LampBlinkingLenght": 6000,
+          "LampBlinkingInterval": 500
+        },
+        "Lamp4": {
+          "LampColor": "Teal",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": ""
+          },
+          "TactsToTurnON": 261,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": ""
+          },
+          "TactsToTurnOff": 400,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": "Zabrze",
+          "DirectionsPNAList": [
+            {
+              "WSR": "",
+              "PnaTo": "48999",
+              "PnaFrom": "40000 "
+            },
+            {
+              "WSR": "",
+              "PnaTo": "34399",
+              "PnaFrom": "34300 "
+            }
+          ]
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem4": {
+        "Lamp1": {
+          "LampColor": "White",
+          "blinkTimer": {
+            "Site": null,
+            "Enabled": false,
+            "Interval": 200.0,
+            "AutoReset": true,
+            "Container": null,
+            "SynchronizingObject": null
+          },
+          "LampBlinking": true,
+          "TurnOnSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": "2w11"
+          },
+          "TactsToTurnON": 244,
+          "TurnOffSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": "2w10"
+          },
+          "TactsToTurnOff": 247,
+          "LampBlinkingLenght": 6000,
+          "LampBlinkingInterval": 200
+        },
+        "Lamp2": {
+          "LampColor": "Fuchsia",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": "2w41,2w61"
+          },
+          "TactsToTurnON": 257,
+          "TurnOffSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": "2w40,2w60"
+          },
+          "TactsToTurnOff": 260,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "Blue",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": ""
+          },
+          "TactsToTurnON": 20,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": ""
+          },
+          "TactsToTurnOff": 50,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "Blue",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "13,10",
+            "Prefix": "27",
+            "Content": ""
+          },
+          "TactsToTurnON": 261,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": ""
+          },
+          "TactsToTurnOff": 400,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": "Kielce",
+          "DirectionsPNAList": [
+            {
+              "WSR": "",
+              "PnaTo": "29999",
+              "PnaFrom": "25000 "
+            }
+          ]
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      }
+    },
+    {
+      "Name": "Stanowisko 2",
+      "StandItem1": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem2": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem3": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem4": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      }
+    },
+    {
+      "Name": "Stanowisko 12",
+      "StandItem1": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem2": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem3": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem4": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      }
+    },
+    {
+      "Name": "Stanowisko 22",
+      "StandItem1": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem2": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem3": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem4": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      }
+    },
+    {
+      "Name": "Stanowisko 32",
+      "StandItem1": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem2": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem3": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem4": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      }
+    },
+    {
+      "Name": "Stanowisko 42",
+      "StandItem1": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem2": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem3": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem4": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      }
+    },
+    {
+      "Name": "Stanowisko 52",
+      "StandItem1": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem2": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem3": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem4": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      }
+    },
+    {
+      "Name": "Stanowisko 62",
+      "StandItem1": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem2": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem3": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem4": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      }
+    },
+    {
+      "Name": "Stanowisko 72",
+      "StandItem1": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem2": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem3": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem4": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      }
+    },
+    {
+      "Name": "Stanowisko 82",
+      "StandItem1": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem2": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem3": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem4": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      }
+    },
+    {
+      "Name": "Stanowisko 92",
+      "StandItem1": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem2": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem3": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem4": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      }
+    },
+    {
+      "Name": "Stanowisko 102",
+      "StandItem1": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem2": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem3": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem4": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": "",
+            "Prefix": "",
+            "Content": ""
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": null,
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      }
+    },
+    {
+      "Name": "Odrzut",
+      "StandItem1": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": "Odrzuty",
+          "DirectionsPNAList": [
+            {
+              "WSR": "ODRZUT",
+              "PnaTo": "999999",
+              "PnaFrom": "999999"
+            }
+          ]
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem2": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": "",
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem3": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": "",
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      },
+      "StandItem4": {
+        "Lamp1": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp2": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp3": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Lamp4": {
+          "LampColor": "",
+          "blinkTimer": null,
+          "LampBlinking": false,
+          "TurnOnSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnON": 0,
+          "TurnOffSignal": {
+            "Sufix": null,
+            "Prefix": null,
+            "Content": null
+          },
+          "TactsToTurnOff": 0,
+          "LampBlinkingLenght": 0,
+          "LampBlinkingInterval": 0
+        },
+        "Direction": {
+          "Name": "",
+          "DirectionsPNAList": []
+        },
+        "SortedParcels": 0,
+        "MissedParcelsCount": 0
+      }
+    }
+  ],
+  "cam1zoom": 1,
+  "cam2zoom": 2,
+  "blackCam1": false,
+  "blackCam2": true,
+  "CamAdress1": "http://127.0.0.1:5050/video",
+  "CamAdress2": "2",
+  "Directions": [
+    {
+      "Name": "Pruszcz Gd",
+      "DirectionsPNAList": [
+        {
+          "WSR": "",
+          "PnaTo": "84999",
+          "PnaFrom": "80000 "
+        },
+        {
+          "WSR": "",
+          "PnaTo": "14499",
+          "PnaFrom": "14400 "
+        },
+        {
+          "WSR": "",
+          "PnaTo": "14599",
+          "PnaFrom": "14500 "
+        },
+        {
+          "WSR": "",
+          "PnaTo": "76299",
+          "PnaFrom": "76200 "
+        },
+        {
+          "WSR": "",
+          "PnaTo": "77199",
+          "PnaFrom": "77100 "
+        },
+        {
+          "WSR": "",
+          "PnaTo": "77299",
+          "PnaFrom": "77200 "
+        }
+      ]
+    },
+    {
+      "Name": "Lisi Ogon",
+      "DirectionsPNAList": [
+        {
+          "WSR": "",
+          "PnaTo": "64899",
+          "PnaFrom": "64800 "
+        },
+        {
+          "WSR": "",
+          "PnaTo": "64999",
+          "PnaFrom": "64900 "
+        },
+        {
+          "WSR": "",
+          "PnaTo": "77399",
+          "PnaFrom": "77300 "
+        },
+        {
+          "WSR": "",
+          "PnaTo": "77499",
+          "PnaFrom": "77400 "
+        },
+        {
+          "WSR": "",
+          "PnaTo": "77699",
+          "PnaFrom": "78600 "
+        },
+        {
+          "WSR": "",
+          "PnaTo": "89999",
+          "PnaFrom": "85000"
+        }
+      ]
+    },
+    {
+      "Name": "Warszawa",
+      "DirectionsPNAList": [
+        {
+          "WSR": "",
+          "PnaTo": "19999",
+          "PnaFrom": "15000 "
+        },
+        {
+          "WSR": "",
+          "PnaTo": "09999",
+          "PnaFrom": "00000"
+        },
+        {
+          "WSR": "",
+          "PnaTo": "96399",
+          "PnaFrom": "96300 "
+        },
+        {
+          "WSR": "",
+          "PnaTo": "96599",
+          "PnaFrom": "96500 "
+        }
+      ]
+    },
+    {
+      "Name": "£ódŸ",
+      "DirectionsPNAList": [
+        {
+          "WSR": "",
+          "PnaTo": "96299",
+          "PnaFrom": "90000 "
+        },
+        {
+          "WSR": "",
+          "PnaTo": "26399",
+          "PnaFrom": "26300 "
+        },
+        {
+          "WSR": "",
+          "PnaTo": "96499",
+          "PnaFrom": "96400 "
+        },
+        {
+          "WSR": "",
+          "PnaTo": "99999",
+          "PnaFrom": "96600 "
+        }
+      ]
+    },
+    {
+      "Name": "Wroc³aw",
+      "DirectionsPNAList": [
+        {
+          "WSR": "WR",
+          "PnaTo": "67299",
+          "PnaFrom": "67200 "
+        },
+        {
+          "WSR": "WR",
+          "PnaTo": "59999",
+          "PnaFrom": "50000 "
+        },
+        {
+          "WSR": "WR",
+          "PnaTo": "49399",
+          "PnaFrom": "49300 "
+        },
+        {
+          "WSR": "WR",
+          "PnaTo": "49299",
+          "PnaFrom": "49200 "
+        },
+        {
+          "WSR": "WR",
+          "PnaTo": "48399",
+          "PnaFrom": "48300 "
+        },
+        {
+          "WSR": "WR",
+          "PnaTo": "46199",
+          "PnaFrom": "46100 "
+        }
+      ]
+    },
+    {
+      "Name": "Komorniki",
+      "DirectionsPNAList": [
+        {
+          "WSR": "",
+          "PnaTo": "78599",
+          "PnaFrom": "75000 "
+        },
+        {
+          "WSR": "",
+          "PnaTo": "66199",
+          "PnaFrom": "60000 "
+        },
+        {
+          "WSR": "",
+          "PnaTo": "69999",
+          "PnaFrom": "67300 "
+        }
+      ]
+    },
+    {
+      "Name": "Olsztyn",
+      "DirectionsPNAList": [
+        {
+          "WSR": "",
+          "PnaTo": "14999",
+          "PnaFrom": "10000 "
+        }
+      ]
+    },
+    {
+      "Name": "Szczecin",
+      "DirectionsPNAList": [
+        {
+          "WSR": "",
+          "PnaTo": "74999",
+          "PnaFrom": "70000 "
+        }
+      ]
+    },
+    {
+      "Name": "Zabrze",
+      "DirectionsPNAList": [
+        {
+          "WSR": "",
+          "PnaTo": "48999",
+          "PnaFrom": "40000 "
+        },
+        {
+          "WSR": "",
+          "PnaTo": "34399",
+          "PnaFrom": "34300 "
+        }
+      ]
+    },
+    {
+      "Name": "Kraków",
+      "DirectionsPNAList": [
+        {
+          "WSR": "",
+          "PnaTo": "34299",
+          "PnaFrom": "30000 "
+        },
+        {
+          "WSR": "",
+          "PnaTo": "38299",
+          "PnaFrom": "38300 "
+        },
+        {
+          "WSR": "",
+          "PnaTo": "34499",
+          "PnaFrom": "34400 "
+        }
+      ]
+    },
+    {
+      "Name": "Rudna Ma³a",
+      "DirectionsPNAList": [
+        {
+          "WSR": "",
+          "PnaTo": "39999",
+          "PnaFrom": "35000 "
+        }
+      ]
+    },
+    {
+      "Name": "Lublin",
+      "DirectionsPNAList": [
+        {
+          "WSR": "",
+          "PnaTo": "24999",
+          "PnaFrom": "20000 "
+        },
+        {
+          "WSR": "",
+          "PnaTo": "08599",
+          "PnaFrom": "08500 "
+        }
+      ]
+    },
+    {
+      "Name": "Kielce",
+      "DirectionsPNAList": [
+        {
+          "WSR": "",
+          "PnaTo": "29999",
+          "PnaFrom": "25000 "
+        }
+      ]
+    }
+  ],
+  "Scanner1Name": "Scanner",
+  "Scanner1Port": "COM1",
+  "AllTactsCount": 385,
+  "Scanner1Delay": 300,
+  "Scanner1Speed": 9600,
+  "SignalingName": "Signaling",
+  "SignalingPort": "COM37",
+  "SignalingDelay": 0,
+  "SignalingSpeed": 1200,
+  "StopCorrection": 4,
+  "StopSensorName": "Stop sensor",
+  "StopSensorPort": "COM36",
+  "TactSensorName": "Tact sensor",
+  "TactSensorPort": "COM29",
+  "StartSensorName": "Start sensor",
+  "StartSensorPort": "COM33",
+  "StopSensorDelay": 0,
+  "StopSensorSpeed": 9600,
+  "TactSensorDelay": 0,
+  "TactSensorSpeed": 9600,
+  "LenghtSensorName": null,
+  "LenghtSensorPort": "COM12",
+  "StartSensorDelay": 0,
+  "StartSensorSpeed": 9600,
+  "LenghtSensorDelay": 0,
+  "LenghtSensorSpeed": 9600,
+  "SaveTimerInterval": 1000,
+  "ParcelLenghtFactor": 8,
+  "TurnOffLampByTimer": false,
+  "ReportStatusInterval": 1000,
+  "StopSensorTactsCount": 294,
+  "BetweenMarkresSpaceCM": 25,
+  "CorrectDisposedMarkers": false,
+  "Settingsrefreshinterval": 500,
+  "WorkdetectionIntervalMS": 600,
+  "AutoWorkdetectioninterval": true
+}
