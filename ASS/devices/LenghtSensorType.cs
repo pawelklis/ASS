@@ -11,6 +11,6 @@ namespace ASS.devices
         /// <summary>
         /// liczba taktów dla pełnej rundy
         /// </summary>
-        //public int TactsCount { get; set; }
+
     }
 }
