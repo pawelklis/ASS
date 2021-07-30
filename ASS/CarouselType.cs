@@ -19,6 +19,9 @@ namespace ASS
         public static string Path = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + @"\ASSCore\";
         public static string FileName = "ASS.json";
 
+
+
+        //test
         public SimpleTcpServer data_server;
         Task DataServerTask;
         Timer DeviceTimer { get; set; }
